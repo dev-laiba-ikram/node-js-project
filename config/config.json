@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "laibaikram",
+    "password": "",
+    "database": "social_app",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "laibaikram",
+    "password": "",
+    "database": "social_app",
+    "host": "127.0.0.1",
+    "dialect": "postgresql"
+  },
+  "production": {
+    "username": "laibaikram",
+    "password": "",
+    "database": "social_app",
+    "host": "127.0.0.1",
+    "dialect": "postgresql"
+  }
+}
